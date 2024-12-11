@@ -1,3 +1,9 @@
-## ASM Bytecode Example
+## ASM Overview
 
-This repository contains an example project demonstrating the use of the ASM library for bytecode generation and manipulation in Java. The project generates a custom Java class at runtime using the ASM library, showcasing techniques such as creating methods, arrays, and stream operations.
+ASM (Abstract Syntax Manipulation) is a powerful Java library for directly manipulating bytecode. It is commonly used in frameworks and tools for dynamic class generation, bytecode analysis, and transformation.
+
+For more details, visit:
+
+[ASM Library Documentation](https://asm.ow2.io/)
+
+[Maven Central: ASM](https://central.sonatype.com/artifact/org.ow2.asm/asm)
